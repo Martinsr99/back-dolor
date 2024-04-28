@@ -1,0 +1,27 @@
+# Dependencias
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+*.env
+
+# Directorios de salida y temporales
+/output
+/uploads
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+/.vscode
+/.idea
+
+# Archivos de caché
+*.log
+*.cache
+*.bak
